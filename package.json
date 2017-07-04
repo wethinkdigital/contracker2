@@ -1,0 +1,27 @@
+{
+  "name": "contracker2",
+  "version": "1.0.0",
+  "description": "Node / React / Redux version",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wethinkdigital/contracker2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wethinkdigital/contracker2/issues"
+  },
+  "homepage": "https://github.com/wethinkdigital/contracker2#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
